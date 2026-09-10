@@ -2,7 +2,7 @@
 - 👀 I’m interested in new projects
 - 🌱 I’m currently learning rust
 - 💞️ I'm happy to help 
-- 📫 How to reach me shaine.ismail@bigspark.dev
+- 📫 How to reach me shainnif@gmail.com
 
 <!---
 shainnif/shainnif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
