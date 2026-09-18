@@ -35,4 +35,4 @@ Co-founder of Bigspark. 20+ years across data, engineering and architecture. Exp
 
 ## 05 / Elsewhere
 
-[CV](./cv/shaine-ismail-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/shaineismail/)
+[CV](./cv/shaine-ismail-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/shaineismail/) · [Substack](https://shaineismail.substack.com/)
