@@ -4,11 +4,14 @@
 
 ## 01 / Building
 
-**Little Solar**
+**[Little Solar](https://littlesolar.uk)**
 Tools exploring solar, batteries, electrification and energy economics.
 
 **Plug-in Solar**
 Exploring the feasibility, safety and economics of plug-in solar systems in the UK.
+
+**[Groundsman](https://groundsman.uk)**
+Grounds management without the paperwork. Plan maintenance, record work, track machinery and keep a clear evidence trail — built for community sports clubs and grounds teams.
 
 **Developer Tooling**
 Ubuntu, CLI workflows, automation, containers and development environments.
